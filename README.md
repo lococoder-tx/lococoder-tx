@@ -6,9 +6,9 @@ I'm a full-stack developer passionate about building useful and beautiful softwa
 
 ## 📊 GitHub Stats
 
-![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijahcgaytan&show_icons=true&theme=default)
+![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lococoder-tx&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahcgaytan&layout=compact&langs_count=6&hide=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lococoder-tx&layout=compact&langs_count=6&hide=html)
 
 ---
 
@@ -20,4 +20,3 @@ I'm a full-stack developer passionate about building useful and beautiful softwa
 ---
 
 _Thanks for stopping by!_
-
