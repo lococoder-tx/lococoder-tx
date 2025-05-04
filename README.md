@@ -10,7 +10,7 @@ I'm a Full-Stack Developer who works with startups and enterprise companies to s
 
 I started off my programming journey 10 years ago, when I laid eyes on the beautiful monstrosity that is the Unity Engine. 
 
-Now, I work professionally as a Full-Stack Dev. My past experience includes working with Fortune 500 companies such as **PNC**, **McCormick**, and Austin-based startup **Colorfull**.  
+Now, I work professionally as a Full-Stack Dev. My experience includes **PNC**, **McCormick**, and Austin-based startup **Colorfull**.  
 
 My work follows these three mantras:
 
