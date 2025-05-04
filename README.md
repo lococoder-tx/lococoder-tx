@@ -36,7 +36,11 @@ I'm blessed to be doing what I love - coding ☕️ 💻
 
 **I'm always looking for new, exciting opportunities.**
 
-Have an idea you'd like to share, but don't know where to start? Reach out and connect with me at any of the links below.
+Have an idea you'd like to share, but don't know where to start? 
+
+I'll help you make sense of this messy and confusing world that is Tech. 
+
+Reach out and connect with me at any of the links below.
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://lococoder.com)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lococoder.com)
