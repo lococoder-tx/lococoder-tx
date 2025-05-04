@@ -1,8 +1,8 @@
+<img src="Asset 5@2x-8.png" alt="LocoCoder logo" width="400" />
+
 # Hi, I'm Elijah, but you can call me LocoCoder 👋
 
 *Full-Stack Developer and AI Specialist*
-
-<img src="Asset 5@2x-8.png" alt="LocoCoder logo" width="300" />
 
 I’m a Software Engineer, and the founder and owner of Lococoder Labs.
 
