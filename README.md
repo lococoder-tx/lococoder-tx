@@ -2,7 +2,9 @@
 
 *Full-Stack Developer and AI Specialist*
 
-I'm a Full-Stack Developer who works with startups and enterprise companies to solve **Real-World** problems with **Real-World** solutions.
+I’m a Software Engineer, and the founder and owner of Lococoder Labs.
+
+I work with startups and enterprise companies to solve **Real-World** problems with **Real-World** solutions.
 
 ---
 
