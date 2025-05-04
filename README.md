@@ -14,13 +14,7 @@ I work with startups and enterprise companies to solve **Real-World** problems w
 
 I started off my programming journey 10 years ago, when I laid eyes on the beautiful monstrosity that is the Unity Engine. 
 
-Now, I work professionally as a Full-Stack Dev.  
-
-Previous clients include: 
-
-1) **PNC**
-2) **McCormick**
-3) Austin-based startup **Colorfull**.  
+After graduation, I cut my teeth as a full-stack developer working with **PNC**, where I built production-ready apps in Vue.js and FastAPI. 
 
 My work follows these three mantras:
 
@@ -28,7 +22,7 @@ My work follows these three mantras:
 2) Ship Fast (without sacrificing features)
 3) Think Fast (give you all the facts so that you can make the right decisions)
 
-Most of my work lies behind closed doors, but you can view my most recent projects on my [Portfolio](https://www.lococoder.com)
+Most of my work lies behind closed doors, but you can view my past projects and resume on my [Portfolio](https://www.lococoder.com)
 
 I'm blessed to be doing what I love - coding ☕️ 💻
 
