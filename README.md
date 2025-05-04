@@ -12,9 +12,7 @@ I work with startups and enterprise companies to solve **Real-World** problems w
 
 ## About me 
 
-I started off my programming journey 10 years ago, when I laid eyes on the beautiful monstrosity that is the Unity Engine. 
-
-After graduation, I cut my teeth as a full-stack developer working with **PNC**, where I built production-ready apps in Vue.js and FastAPI. 
+I started off my programming journey 10 years ago, when I laid eyes on the beautiful monstrosity that is the Unity Engine. Most of my games are still on here (the ones I'm not ashamed of), and one of my most starred repos is a [Diablo Clone](https://github.com/lococoder-tx/Diablo-Clone) that I built in Unity. 
 
 My work follows these three mantras:
 
