@@ -2,7 +2,7 @@
 
 *Full-Stack Developer and AI Specialist*
 
-<img src="Logo_1-100.jpg" alt="LocoCoder logo" width="150" />
+<img src="Asset 5@2x-8.png" alt="LocoCoder logo" width="300" />
 
 I’m a Software Engineer, and the founder and owner of Lococoder Labs.
 
