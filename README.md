@@ -14,7 +14,13 @@ I work with startups and enterprise companies to solve **Real-World** problems w
 
 I started off my programming journey 10 years ago, when I laid eyes on the beautiful monstrosity that is the Unity Engine. 
 
-Now, I work professionally as a Full-Stack Dev. I've previously workd with **PNC**, **McCormick**, and Austin-based startup **Colorfull**.  
+Now, I work professionally as a Full-Stack Dev.  
+
+Previous clients include: 
+
+1) **PNC**
+2) **McCormick**
+3) Austin-based startup **Colorfull**.  
 
 My work follows these three mantras:
 
