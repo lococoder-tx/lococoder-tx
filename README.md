@@ -4,10 +4,6 @@
 
 I'm a Full-Stack Developer who works with startups and enterprise companies to solve **Real-World** problems with **Real-World** solutions.
 
-**I'm actively looking for new opportunities!** 
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lococoder.com)
-
 ---
 
 ## About me 
@@ -38,7 +34,12 @@ I'm blessed to be doing what I love - coding ☕️ 💻
 
 ## 🔗 Connect with me
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://lococoder.com)  
+**I'm always looking for new, exciting opportunities.**
+
+Have an idea you'd like to share, but don't know where to start? Reach out and connect with me at any of the links below.
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://lococoder.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lococoder.com)
 [![Twitter/X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/loco_coder)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elijahcgaytan/)
 
