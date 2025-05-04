@@ -1,4 +1,4 @@
-<img src="Asset 5@2x-8.png" alt="LocoCoder logo" width="400" />
+<img src="Asset 5@2x-8.png" alt="LocoCoder logo"/>
 
 # Hi, I'm Elijah, but you can call me LocoCoder 👋
 
