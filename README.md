@@ -2,11 +2,11 @@
 
 # Hi, I'm Elijah, but you can call me LocoCoder 👋
 
-*Full-Stack Developer and AI Specialist*
+*Recovering Game Developer and Full-Stack Software Engineer*
 
-I’m a Software Engineer, and the founder and owner of Lococoder Labs.
+I like to to kick ass and write code.
 
-I work with startups and enterprise companies to solve **Real-World** problems with **Real-World** solutions.
+But mostly just write code. 
 
 ---
 
@@ -22,7 +22,9 @@ My work follows these three mantras:
 
 Most of my work lies behind closed doors, but you can view my past projects and resume on my [Portfolio](https://www.lococoder.com)
 
-I'm blessed to be doing what I love - coding ☕️ 💻
+I'm lucky - I'm blessed to be doing what I love - coding ☕️ 💻
+
+I'd have it no other way.
 
 ---
 
@@ -36,13 +38,11 @@ I'm blessed to be doing what I love - coding ☕️ 💻
 
 ## 🔗 Connect with me
 
-**I'm always looking for new, exciting opportunities.**
+**I'm always looking to connect with new people!**
 
-Have an idea you'd like to share, but don't know where to start? 
+Whether you're a dev or an entrepeneur (or both), feel free to reach out to me on my socials below!
 
-I'll help you make sense of this messy and confusing world that is Tech. 
-
-Reach out and connect with me at any of the links below.
+Always love learning about what other people are working on.
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://lococoder.com)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lococoder.com)
