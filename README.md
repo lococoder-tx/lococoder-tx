@@ -1,6 +1,6 @@
 <img src="Asset 5@2x-8.png" alt="LocoCoder logo"/>
 
-# Hi, I'm Elijah, but you can call me LocoCoder 👋
+# Hi, I'm Elijah, but you can call me Lococoder 👋
 
 *Recovering Game Developer and Full-Stack Software Engineer*
 
